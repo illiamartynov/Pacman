@@ -23,7 +23,6 @@ To play the Pacman game, follow these steps:
 ## Game Features 🎮
 
 - **Enemy Upgrades**: Every 5 seconds, enemies have a 25% chance to create upgrades that the player can collect. Implementing at least 5 different significant complex upgrades.
-- **Customizable Board Size**: The player can choose the size of the game board, ranging from 10 to 100 rows/columns.
 
 ## Usage 🚀
 
@@ -35,5 +34,5 @@ To play the Pacman game, follow these steps:
 6. Use the keyboard shortcut Ctrl+Shift+Q to interrupt the game and return to the main menu.
 ## Acknowledgments 🙏
 
-We would like to express our gratitude to the Polish-Japanese Academy for providing the education and support that helped us develop this game.
+We would like to express our gratitude to the Polish-Japanese Academy for providing the education and support that helped me develop this game.
 
